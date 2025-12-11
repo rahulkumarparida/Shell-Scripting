@@ -1,0 +1,40 @@
+google.com
+
+Pinging google.com [2404:6800:4002:81c::200e] with 32 bytes of data:
+Reply from 2404:6800:4002:81c::200e: time=84ms 
+
+Ping statistics for 2404:6800:4002:81c::200e:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 84ms, Maximum = 84ms, Average = 84ms
+              
+github.com
+
+Pinging github.com [64:ff9b::14cf:4952] with 32 bytes of data:
+Reply from 64:ff9b::14cf:4952: time=73ms 
+
+Ping statistics for 64:ff9b::14cf:4952:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 73ms, Maximum = 73ms, Average = 73ms
+              
+youtube.com
+
+Pinging youtube.com [2404:6800:4003:c06::88] with 32 bytes of data:
+Reply from 2404:6800:4003:c06::88: time=116ms 
+
+Ping statistics for 2404:6800:4003:c06::88:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 116ms, Maximum = 116ms, Average = 116ms
+              
+localhost.com
+
+Pinging localhost.com [64:ff9b::4a7d:e048] with 32 bytes of data:
+Reply from 64:ff9b::4a7d:e048: time=338ms 
+
+Ping statistics for 64:ff9b::4a7d:e048:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 338ms, Maximum = 338ms, Average = 338ms
+              
