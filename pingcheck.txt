@@ -38,3 +38,43 @@ Ping statistics for 64:ff9b::4a7d:e048:
 Approximate round trip times in milli-seconds:
     Minimum = 338ms, Maximum = 338ms, Average = 338ms
               
+google.com
+
+Pinging google.com [2404:6800:4002:805::200e] with 32 bytes of data:
+Reply from 2404:6800:4002:805::200e: time=56ms 
+
+Ping statistics for 2404:6800:4002:805::200e:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 56ms, Maximum = 56ms, Average = 56ms
+              
+github.com
+
+Pinging github.com [64:ff9b::14cf:4952] with 32 bytes of data:
+Reply from 64:ff9b::14cf:4952: time=61ms 
+
+Ping statistics for 64:ff9b::14cf:4952:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 61ms, Maximum = 61ms, Average = 61ms
+              
+youtube.com
+
+Pinging youtube.com [2404:6800:4003:c03::88] with 32 bytes of data:
+Reply from 2404:6800:4003:c03::88: time=104ms 
+
+Ping statistics for 2404:6800:4003:c03::88:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 104ms, Maximum = 104ms, Average = 104ms
+              
+localhost.com
+
+Pinging localhost.com [64:ff9b::4a7d:e048] with 32 bytes of data:
+Reply from 64:ff9b::4a7d:e048: time=345ms 
+
+Ping statistics for 64:ff9b::4a7d:e048:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 345ms, Maximum = 345ms, Average = 345ms
+              

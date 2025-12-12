@@ -1,4 +1,7 @@
 #!/bin/bash
+
+set -x
+
 # Create calculator with user interactivity
 
 addition() {

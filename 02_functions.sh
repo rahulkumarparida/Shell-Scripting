@@ -1,4 +1,8 @@
+# set -x
+# set -e
 # Functions
+
+
 function welcome {
     echo "-------------------------"
     echo "-------- Welcome---------"
@@ -43,18 +47,22 @@ addition() {
 # echo "Description : $@"
 
 
+
+
+# NO=$(( $RANDOM % 6 + 1 ))
+# echo "Number is $NO"
+
+
+
 # Connectivity Chcek
 
 # read -p "Which site you want to check connectivity? " site
-# ping -t  -n 1  $site
+# ping -t  -n 1  $site  $> /dev/null
 # sleep 1s
 
 # if [[ $? -eq 0 ]]; then
+#     echo "Ran on  ${0}"
 #     echo "Connection is OK"
 # else
 #     echo "Failed"
 # fi
-
-
-NO=$(( $RANDOM % 6 + 1 ))
-echo "Number is $NO"

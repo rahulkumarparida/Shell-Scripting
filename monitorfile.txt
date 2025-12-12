@@ -1,0 +1,15 @@
+                   
+Fri Dec 12 11:51:29 IST 2025
+-----------Memory Info----------
+MemTotal:       10359048 kB
+-----------CPU Info----------
+model name	: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  
+cpu cores	: 4
+                   
+Fri Dec 12 11:55:34 IST 2025
+-----------Memory Info----------
+MemFree:         4874824 kB
+MemTotal:       10359048 kB
+-----------CPU Info----------
+model name	: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  
+cpu cores	: 4
